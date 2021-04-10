@@ -26,6 +26,7 @@ i {
 }
 
 input {
+    padding-left: .25rem;
     width: 5rem;
     height: 2rem;
 }
